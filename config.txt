@@ -1,0 +1,4 @@
+Host {EC2 instance name} 
+    HostName {Public IPv4 address}
+    User {Platform}
+    IdentityFile {path to key-pair file}
